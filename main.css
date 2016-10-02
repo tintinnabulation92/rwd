@@ -56,32 +56,41 @@
 {
 	#container{
 		width:100%;
+		padding:0;
 		
 	}
 	#graph1{
 		width:100%;
+		padding:0;
 	}
 	#graph2{
 		width:100%;
+		padding:0;
 	}
 	#graph3{
 		width:100%;
+		padding:0;
 	}
 	
 	#logo{
 		width:100%;
+		padding:0;
 	}
 	#nav{
 		width:100%;
+		padding:0;
 	}
 	#content{
 		width:100%;
+		padding:0;
 	}
 	#ad{
 		width:100%;
+		padding:0;
 	}
 	#footer{
 		width:100%;
+		padding:0;
 	}
 	
 }
